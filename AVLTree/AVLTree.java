@@ -7,6 +7,9 @@ import java.util.Objects;
 
 /**
 * Created by long on 2016/11/18.
+*
+*
+* @author wcj
 */
 public class AVLTree<E> {
     private static final int LH = 1;	//左高
